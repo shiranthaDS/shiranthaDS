@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shirantha Dissanayake</h1>
 <h3 align="center">A passionat developer from Sri lanka</h3>
 
-- 🌱 I’m currently learning at SLIIT -Faculty of Computing **BSc (Hons) in Information Technology Specialising in Software Engineering**
+ I’m currently learning at SLIIT -Faculty of Computing **BSc (Hons) in Information Technology Specialising in Software Engineering**
 
-- 📫 How to reach me **shiranthadw@gmail.com**
+- How to reach me **shiranthadw@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
