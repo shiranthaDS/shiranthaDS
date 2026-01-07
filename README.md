@@ -119,17 +119,25 @@ teams and manage software engineering tasks ranging from application development
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shiranthaDS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=shiranthaDS&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+  <a href="https://github.com/shiranthaDS">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shiranthaDS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/shiranthaDS">
+    <img height="180em" src="https://streak-stats.demolab.com?user=shiranthaDS&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&stroke=6366F1" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiranthaDS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9" alt="Top Languages" />
+  <a href="https://github.com/shiranthaDS">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shiranthaDS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  </a>
 </p>
 
 <!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiranthaDS&custom_title=Shirantha's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area_color=6366F1&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <a href="https://github.com/shiranthaDS">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiranthaDS&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true" alt="GitHub Activity Graph" />
+  </a>
 </p>
 
 ---
@@ -137,7 +145,9 @@ teams and manage software engineering tasks ranging from application development
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shiranthaDS&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
+  <a href="https://github.com/shiranthaDS">
+    <img src="https://github-profile-trophy.vercel.app/?username=shiranthaDS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&row=1" alt="GitHub Trophies"/>
+  </a>
 </p>
 
 ---
@@ -146,19 +156,19 @@ teams and manage software engineering tasks ranging from application development
 
 <p align="center">
   <a href="https://github.com/shiranthaDS/ShopX">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shiranthaDS&repo=ShopX&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="ShopX"/>
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shiranthaDS&repo=ShopX&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="ShopX"/>
   </a>
   <a href="https://github.com/shiranthaDS/NexusHR-AI">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shiranthaDS&repo=NexusHR-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="NexusHR-AI"/>
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shiranthaDS&repo=NexusHR-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="NexusHR-AI"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/shiranthaDS/Work-Zen">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shiranthaDS&repo=Work-Zen&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="Work-Zen"/>
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shiranthaDS&repo=Work-Zen&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="Work-Zen"/>
   </a>
   <a href="https://github.com/Y3S1-WE20/Medi.Way">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Y3S1-WE20&repo=Medi.Way&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="MediWay"/>
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Y3S1-WE20&repo=Medi.Way&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="MediWay"/>
   </a>
 </p>
 
@@ -166,11 +176,9 @@ teams and manage software engineering tasks ranging from application development
 
 ## 📈 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shiranthaDS/shiranthaDS/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shiranthaDS/shiranthaDS/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shiranthaDS/shiranthaDS/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shiranthaDS/shiranthaDS/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
