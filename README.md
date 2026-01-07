@@ -123,7 +123,7 @@ teams and manage software engineering tasks ranging from application development
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shiranthaDS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/shiranthaDS">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shiranthaDS&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6366F1&sideLabels=6366F1&dates=c9d1d9" alt="GitHub Streak" />
+    <img height="180em" src="https://nirzak-streak-stats.vercel.app?user=shiranthaDS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -146,7 +146,7 @@ teams and manage software engineering tasks ranging from application development
 
 <p align="center">
   <a href="https://github.com/shiranthaDS">
-    <img src="https://github-profile-trophy.vercel.app/?username=shiranthaDS&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=shiranthaDS&theme=darkhub&column=7" alt="GitHub Trophies"/>
   </a>
 </p>
 
